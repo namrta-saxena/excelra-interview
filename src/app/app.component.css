@@ -1,0 +1,6 @@
+.setDim {
+  width: 2em;
+  height: 2em;
+  background-color: blue;
+  border-radius: 0.3em;
+}
